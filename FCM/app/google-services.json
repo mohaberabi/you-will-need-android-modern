@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340038923189",
+    "project_id": "compose-noti",
+    "storage_bucket": "compose-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340038923189:android:a5b0c3a43cdd853b31dffc",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQBW8w664WFWkesUyT_-m16EjDVbnJ_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

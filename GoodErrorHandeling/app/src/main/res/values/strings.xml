@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoodErrorHandeling</string>
+    <string name="error_serilize">\nError Serilizing \n</string>
+</resources>
